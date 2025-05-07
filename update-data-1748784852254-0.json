@@ -1,0 +1,17 @@
+{
+  "name": "Eight-Puzzle-Problem",
+  "version": "1.8.1",
+  "description": "Enhanced with new features and improvements",
+  "updated": "2025-06-01T13:34:12.318Z",
+  "features": [
+    "Data validation",
+    "Error handling",
+    "Performance optimization",
+    "Comprehensive testing"
+  ],
+  "config": {
+    "debug": false,
+    "maxRetries": 3,
+    "timeout": 3411
+  }
+}
